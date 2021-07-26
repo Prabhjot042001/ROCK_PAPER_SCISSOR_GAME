@@ -1,21 +1,39 @@
-# ROCK_PAPER_SCISSOR_GAME
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+# THE ROCK, PAPER & SCISSORS GAME <img src="https://user-images.githubusercontent.com/65656071/126960759-5970a7e6-4995-4161-b7c0-f0dd74c802fb.png" width="60" height="60">
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+**DESCRIPTION:** The Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). 
 
+**AIM:** The project aims at designing a **Rock, Paper and Scissors Game** in which the two players will show their hand gestures on the screen and the computer will detect the gesture using **Image Processing and ML** and thereby declare the winner!    <img src="https://user-images.githubusercontent.com/65656071/126972741-ca6653e0-9c5e-4f7c-84cf-e3f0bc2d02ed.png" width="30" height="30">
 
-**AIM:** To build a stone paper scissor game on python that uses hand gesture algorithm to detect the gestures made by hand for stone, paper, and scissor by player 1 and player 2 for particular number of chances.
+**HOW IT WORKS:** 
 
-**DESCRIPTION:** As per the Aim two players will show their hand gestures on the screen and the computer will detect the gesture using image processing and ML and declare the winner. The opencv will detect the gesture of hand and on the basis of convexity defects will make a prediction for a particular gesture.
-The GUI is created which asks the user to play with computer as single player or two player game
+<img src="https://user-images.githubusercontent.com/55792010/123235437-7d5b1b00-d4f9-11eb-97fc-1e4555b131a1.png">
 
-**SKILLS REQUIRED:** 
-- Python
-- Image processing
-- Machine learning
-- good understanding of Opencv library in python
-- Numpy library
+1. A frame is displayed having subframes for recording the gestures of Player 1 and Player 2.
 
-![image](https://user-images.githubusercontent.com/55792010/123235437-7d5b1b00-d4f9-11eb-97fc-1e4555b131a1.png)
+2. As soon as the space key is pressed, the gestures for Player 1 and 2 are recorded respectively.
 
+3. By making contours and threshold images and further analysing them using convexity defects, the gesture is displayed on the main frame as Stone, Paper or Scissor.
+
+4. Comparing the gestures of Player 1 and 2, the winner is  declared.
+
+<img src="https://user-images.githubusercontent.com/65656071/126974445-1424d1e5-9c01-4abf-8f55-a2e3a7c5b475.png" width="400" height="300">
+
+**DEMO:**
+
+**TECHNOLOGIES USED:** 
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+- <img src="https://img.shields.io/badge/-MACHINE LEARNING-blue" height="24"/>
+- <img src="https://img.shields.io/badge/-NUMPY LIBRARY-blue" height="24"/>
+
+**FEATURES TO BE IMPLEMENTED IN FUTURE:**
+1. Single Player vs Computer
+2. Proper GUI for the Game
+
+**REFERENCES:**
+1. https://docs.opencv.org/4.5.2/d7/dbd/group__imgproc.html
+2. https://www.youtube.com/watch?v=O62YO0zXioM&list=RDCMUCkQKVmPkp9Br6MNJYalsUGw&index=2
+
+**CONTRIBUTORS:**
+1. https://github.com/keshav2410garg <img src="https://img.shields.io/github/followers/keshav2410garg?label=Follow&style=social">
+2. https://github.com/Prabhjot042001 <img src="https://img.shields.io/github/followers/Prabhjot042001?label=Follow&style=social">
