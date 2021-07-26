@@ -1,7 +1,5 @@
 # THE ROCK, PAPER & SCISSORS GAME <img src="https://user-images.githubusercontent.com/65656071/126960759-5970a7e6-4995-4161-b7c0-f0dd74c802fb.png" width="60" height="60">
 
-<img src="https://img.shields.io/github/commit-activity/m/keshav2410garg/ROCK_PAPER_SCISSOR_GAME">
-
 **DESCRIPTION:** The Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). 
 
 **AIM:** The project aims at designing a **Rock, Paper and Scissors Game** in which the two players will show their hand gestures on the screen and the computer will detect the gesture using **Image Processing and ML** and thereby declare the winner!    <img src="https://user-images.githubusercontent.com/65656071/126972741-ca6653e0-9c5e-4f7c-84cf-e3f0bc2d02ed.png" width="30" height="30">
