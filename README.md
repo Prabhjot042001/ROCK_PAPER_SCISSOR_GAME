@@ -39,5 +39,5 @@
 2. https://github.com/Prabhjot042001 <img src="https://img.shields.io/github/followers/Prabhjot042001?label=Follow&style=social">
 
 **FILE DESCRIPTION:**
--ROCKPAPERSCISSORGAME.ipynb: Playing the game and declaring the gesture made live
--RPS Game.ipynb: Recording the gesture made and storing them in jpg format and then declaring the result
+- ROCKPAPERSCISSORGAME.ipynb: Playing the game and declaring the gesture made live
+- RPS Game.ipynb: Recording the gesture made and storing them in jpg format and then declaring the result
