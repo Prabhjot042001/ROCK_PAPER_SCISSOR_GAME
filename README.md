@@ -41,5 +41,4 @@
 **FILE DESCRIPTION:**
 - ***RPS Game.ipynb***: Game Model prepared using Image Recording and Processing approach. The Players show their respective gestures in the frame and the gestures are recorded in image format. Analysis is done on the recorded images and the winner is declared respectively. (The model is completed, GUI is being prepared for the same)
 
-- ***ROCKPAPERSCISSORGAME.ipynb***: Game Model prepared using Live Gesture Recording approach. The Players show their respective gestures in the frame and the output itself is displayed on the frame. (Win Condition is Not added) 
 
